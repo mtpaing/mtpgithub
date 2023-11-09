@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.form-container {
+  text-align: left; /* This aligns the content to the left */
+  margin-left: 20px; 
+}
+
+.header {
+  background-color: red;
+  color: rgb(250, 247, 247);
+  padding: 10px;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 40px;
+}
